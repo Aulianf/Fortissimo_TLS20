@@ -32,6 +32,7 @@ int main ()
 }
 
 [ADU LONCATAN JANGKRIK]
+
 #include<stdio.h>
 
 int main(){
