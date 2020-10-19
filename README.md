@@ -1,7 +1,7 @@
 # Fortissimo_TLS20
 Alika Amalia Putri, Aulia Nur Fajriyah, Maria Anastasia, Nisrina Ristyawati, Ruth Perdana Saragih, Theresia Avilla Krisnanda Sulistyo 
 
-Kotak Melalui Terowongan
+[KOTAK MELALUI TEROWONGAN]
 
 #include <stdio.h>
 
@@ -31,7 +31,7 @@ int main ()
 	return 0;
 }
 
-Adu Loncatan Jangkrik
+[ADU LONCATAN JANGKRIK]
 #include<stdio.h>
 
 int main(){
