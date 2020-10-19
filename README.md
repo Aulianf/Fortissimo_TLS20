@@ -30,3 +30,32 @@ int main ()
 	}
 	return 0;
 }
+
+Adu Loncatan Jangkrik
+#include<stdio.h>
+
+int main(){
+	int x1, v1, x2, v2, n;
+	
+	printf("Posisi awal jangkrik 1 : ");
+	scanf("%d", &x1);
+	printf("Jarak lompatan jangkrik 1 : ");
+	scanf("%d", &v1);
+	printf("Posisi awal jangkrik 2 : ");
+	scanf("%d", &x2);
+	printf("jarak lompatan jangkrik 2 :");
+	scanf("%d", &v2);
+	
+	n=1+(x1-x2)/(v2-v1);
+	
+	if(n>0 && (int)n-n == 0){
+		printf("YES\n");
+		printf("Jangkrik berada pada posisi yang sama");
+	}
+	else{
+		printf("NO\n");
+		printf("Jangkrik berada pada posisi berbeda");
+	}
+	
+	return 0;
+}
